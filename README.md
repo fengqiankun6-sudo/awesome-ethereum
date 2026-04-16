@@ -53,6 +53,8 @@ decided that it has value.
 - ["Developing Applications on Ethereum Blockchain" course](https://www.pluralsight.com/courses/blockchain-ethereum-developing-applications)
 
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 #### Tools
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/)
 - [Etherscan: Blockchain Explorer](https://etherscan.io)
